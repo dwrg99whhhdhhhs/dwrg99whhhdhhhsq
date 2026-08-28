@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html class="front">
+<head>
+<title></title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<script type="text/javascript">
+var dataLayer = dataLayer || [];
+dataLayer.push({
+brand: 'Crazy',
+});
+</script>
+<!-- Google Tag Manager -->
+<script>(function(w, d, s, l, i) {
+w[l] = w[l] || [];
+w[l].push({
+'gtm.start':
+new Date().getTime(), event: 'gtm.js',
+});
+var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+j.async = true;
+j.src =
+'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-W5JFSNZ');</script>
+<!-- End Google Tag Manager -->
+<link rel="apple-touch-icon" sizes="180x180" href="//crazydomains.dreamscape.cloud/production/public/assets/favicon/apple-touch-icon.png?1">
+<link rel="icon" type="image/png" sizes="32x32" href="//crazydomains.dreamscape.cloud/production/public/assets/favicon/favicon-32x32.png?1">
+<link rel="icon" type="image/png" sizes="16x16" href="//crazydomains.dreamscape.cloud/production/public/assets/favicon/favicon-16x16.png?1">
+<link rel="mask-icon" href="//crazydomains.dreamscape.cloud/production/public/assets/favicon/safari-pinned-tab.svg" color="#5bbad5">
+<link rel="shortcut icon" href="//crazydomains.dreamscape.cloud/production/public/assets/favicon/favicon.ico">
+<meta name="msapplication-TileColor" content="#40618f">
+<meta name="msapplication-config" content="$//crazydomains.dreamscape.cloud/production/public/assets/favicon/browserconfig.xml">
+</head>
+<body class="us parked_index design_v3">
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W5JFSNZ" height="0" width="0"
+style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+<!--[if lte IE 7]>
+<script src="/scripts/ie/warning.js"></script>
+<script>window.onload = function() {
+e("/scripts/ie/")
+}</script><![endif]-->
+<div id="header" class="scrolled-header-wrap">
+</div>
+<script type="text/javascript">
+window.Public = {};
+</script>
+<div id="g_page" class="g-page">
+<div id="root"></div>
+
+
+<div class="g-content _common-space-top _common-space-bottom">
+<div class="message-box _align-center">
+<div class="huge-title font-montserrat bold">sample-videos.com </div>
+<div class="domain-info _parked-white-line-fix _mt10">This domain name has been listed for sale by the domain registrant.</div>
+</div>
+</div>
+<div class="g-content _common-space-bottom">
+<div class="row _columns-spaced _no-offset-x">
+<div class="g-list _started-list col-xl-12 col-m-24">
+<div class="list-icon _parked-safe">
+<div class="svg-domain-for-sale-site-protection">
+<svg><use xlink:href="#svg-domain-for-sale-site-protection"></use></svg>
+</div>
+<div class="title-h4 _s-custom _regular">Safe purchasing </div>
+<p>After you have made an offer and this is accepted by both parties, we recommend the use of Escrow to ensure the transaction of the sale is secure and safe. </p>
+</div>
+</div>
+<div class="g-list _started-list col-xl-12 col-m-24 _m-mt30">
+<div class="list-icon _parked-pricetag">
+<div class="svg-domain-for-sale-offer">
+<svg><use xlink:href="#svg-domain-for-sale-offer"></use></svg>
+</div>
+<div class="title-h4 _s-custom _regular">Make an offer </div>
+<p>Use the form and contact the registrant of this domain at your discretion. Crazy Domains does not charge commission for domain name sales or act as a broker. </p>
+</div>
+</div>
+</div>
+<div class="col-xl-24 _common-space-top" id="contact_form_container"></div>
+</div>
+<script type="text/javascript">
+window.Public.gcaptcha_key = '6Leu5Y8sAAAAAEA0SKFj-ZGJ2XHzI_-MqqBkqFlQ';
+window.Public.domain_name = 'sample-videos.com';
+window.Public.send_mail_path = 'ajax/send_email.php';
+</script>
+<div class="parked-landing-footer footer-wrap g-font" id="footer">
+</div>
+<!-- end .g-page -->
+<!-- SCRIPTS -->
+<script>
+window.bin_location = '//crazydomains.dreamscape.cloud/';
+function setPublic(value) {
+return value || null;
+}
+var framework_location = '//framework.syrahost.com/';
+var Public = window.Public || {};
+Public.baseUrl = 'https://www.crazydomains.com';
+Public.supportPhone = '08456 171 171';
+Public.localeSuffix = 'us';
+Public.isParked = true;
+Public.validation_options = {
+rules: setPublic({"contact_domain_owner":{"input_name":{"rules":[{"rule":"not_empty","message":"Enter your name","parameters":[]}]},"input_email":{"rules":[{"rule":"not_empty","message":"Enter your email address","parameters":[]},{"rule":"email","message":"Please enter a valid email address","parameters":[]}]},"input_note":{"rules":[{"rule":"not_empty","message":"Enter your note","parameters":[]}]},"g-recaptcha-response":{"rules":[{"rule":"not_empty","message":"Required","parameters":[]}]}}}),
+};
+Public.utm_parameters = {"utm_source":"crazydomains","utm_medium":"parked_pages","utm_campaign":"sample-videos.com"};
+</script>
+<script type="text/javascript" defer src="//crazydomains.dreamscape.cloud/production/public/parked/parked.js"></script>
+</body>
+</html>
